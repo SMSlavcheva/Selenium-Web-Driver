@@ -147,5 +147,9 @@ namespace BasicSelenium.Steps.Actions
         {
             return _currentPage.FindElements(elementLocator);
         }
+
+
+        
+
     }
 }

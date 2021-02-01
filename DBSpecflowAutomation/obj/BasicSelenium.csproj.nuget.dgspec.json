@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Desktop\\DBSpecflowAutomation\\BasicSelenium.csproj": {}
+    "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Documents\\Selenium\\Selenium-Web-Driver\\DBSpecflowAutomation\\BasicSelenium.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Desktop\\DBSpecflowAutomation\\BasicSelenium.csproj": {
+    "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Documents\\Selenium\\Selenium-Web-Driver\\DBSpecflowAutomation\\BasicSelenium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Desktop\\DBSpecflowAutomation\\BasicSelenium.csproj",
+        "projectUniqueName": "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Documents\\Selenium\\Selenium-Web-Driver\\DBSpecflowAutomation\\BasicSelenium.csproj",
         "projectName": "BasicSelenium",
-        "projectPath": "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Desktop\\DBSpecflowAutomation\\BasicSelenium.csproj",
+        "projectPath": "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Documents\\Selenium\\Selenium-Web-Driver\\DBSpecflowAutomation\\BasicSelenium.csproj",
         "packagesPath": "C:\\Users\\sslavcheva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Desktop\\DBSpecflowAutomation\\obj\\",
+        "outputPath": "C:\\Users\\sslavcheva\\OneDrive - ENDAVA\\Documents\\Selenium\\Selenium-Web-Driver\\DBSpecflowAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sslavcheva\\AppData\\Roaming\\NuGet\\NuGet.Config",
