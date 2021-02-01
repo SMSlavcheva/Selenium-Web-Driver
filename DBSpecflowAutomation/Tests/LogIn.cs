@@ -14,7 +14,7 @@ namespace BasicSelenium.Tests
         public void SetUp() => _user = new BaseUserActions();
 
         [Test]
-        public void Test()
+        public void UserLoginSuccessfullyTest()
         {
             _user.StartsApplication();
             _user.TypesInto(LoginForm.EMIAL_FIELD, "username137@gmail.com");
